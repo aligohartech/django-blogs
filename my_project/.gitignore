@@ -1,0 +1,7 @@
+.project
+*.pyc
+.env
+db.sqlite3
+df
+media
+*.ipynb
